@@ -1,0 +1,22 @@
+/* Write you CSS here */
+.bg-container {
+  background-image: radial-gradient(#2b237c, #180d5b);
+  height: 50vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.interview-heading {
+  color: #ffffff;
+  font-family: 'Playfair Display';
+  font-size: 60px;
+  margin: 30px;
+  width: 380px;
+}
+
+.filters-container {
+  display: flex;
+  flex-direction: row;
+}

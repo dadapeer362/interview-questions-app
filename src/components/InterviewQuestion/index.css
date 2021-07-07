@@ -1,0 +1,76 @@
+/* Write you CSS here */
+
+.questions-container {
+  box-shadow: 3px 3px 3px 3px #475569;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.question-container-2 {
+  margin: 20px;
+}
+
+.question-style {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.lang-level-border {
+  border-radius: 30%;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 10px;
+}
+
+.level-EASY {
+  color: #16a34a;
+  background-color: #16a34a16;
+}
+
+.level-MEDIUM {
+  color: #d97706;
+  background-color: #d9770616;
+}
+
+.level-HARD {
+  color: #dc2626;
+  background-color: #dc262616;
+}
+
+.language-HTML {
+  color: #0284c7;
+  background-color: #0284c716;
+}
+
+.language-CSS {
+  color: #9333ea;
+  background-color: #9333ea16;
+}
+
+.language-JAVASCRIPT {
+  color: #db2777;
+  background-color: #db277716;
+}
+
+.button {
+  margin-left: 10px;
+  padding: 5px;
+  font-weight: bold;
+  color: #000000;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: blue;
+  padding: 10px;
+  outline: none;
+}
+
+.image {
+  margin-left: 5px;
+}
+
+.answer-text {
+  margin-left: 10px;
+}

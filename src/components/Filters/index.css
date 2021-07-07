@@ -1,0 +1,31 @@
+/* Write you CSS here */
+.category-container {
+  margin-left: 30px;
+  padding: 5px;
+  font-weight: bold;
+  border-width: 2px;
+}
+
+.level-container {
+  margin-left: 30px;
+  padding: 5px;
+  font-weight: bold;
+  border-width: 2px;
+}
+
+.heading-dropdown {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.option {
+  font-weight: bold;
+}
+
+.label-dropdown-container {
+  display: flex;
+  flex-direction: column;
+}
